@@ -1,4 +1,7 @@
 const zhihu = 'hhh'
+const h = 'jjjj'
 const zhihu2 = 'hhh'
 
-const lwl11 = 'lwl-11'
+function test() {
+  console.log(zhihu === zhihu2)
+}
